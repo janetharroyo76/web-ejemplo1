@@ -5,11 +5,33 @@ h1{
         front-family: arial;
         front-size: 45px;
         color: #042159;
+        text-align: center;
+      
+}
+h2, h3, p{
+     text-align: center;
+}
+img{
+    display: block;
+    margin: 0 auto;
 }
 
 #pepe{
         width: 240px;
         height: 220px;
-        border-radius: 50%;
+        border-radius: 40%;
         border: 5px solid #082B76;
+}
+button{
+    display: block;
+    margin: 0 auto;
+    background-color:#85738F;
+    padding: 15px 32px
+}
+#pepe:hover{
+    box-shadow: 0 0 2px 1px blue;
+    transform: scale(1.5);
+}
+button:hover{
+    background-color: #468C4B;
 }

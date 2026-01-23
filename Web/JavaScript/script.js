@@ -2,5 +2,5 @@
 const boton1=document.getElementById('tilin')
 //Agregar un evento al boton
 boton1.addEventListener('click', function(){
-    alert("jaiii");
+    alert("100 de limon porque con la de jamaica tose -Irving Alejandro");
 });
