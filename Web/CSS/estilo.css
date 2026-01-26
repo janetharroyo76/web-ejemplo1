@@ -35,3 +35,7 @@ button{
 button:hover{
     background-color: #468C4B;
 }
+
+#tabla1 tr:hover {
+    background-color:pinck
+}
