@@ -39,3 +39,15 @@ button:hover{
 #tabla1 tr:hover {
     background-color:pinck
 }
+.noticias {
+     border: 5px ridge #566DB9;
+     background-color: #0B8888;
+     padingg: 2px;
+     display: flex;
+     flex-direction: column;
+}
+.noticias p {
+    font-family: Helvetica;
+    text-align: center;
+}
+       
