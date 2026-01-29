@@ -50,4 +50,11 @@ button:hover{
     font-family: Helvetica;
     text-align: center;
 }
-       
+#tablat {
+    margin: 0 auto;
+    width: 40%;
+}    
+#tabla1 {
+    margin: 0 auto;
+    width: 20%;
+}   
